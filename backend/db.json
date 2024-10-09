@@ -1,0 +1,99 @@
+{
+  "estates": [
+    {
+      "id": 1,
+      "name": "Comfortable Loft in New York",
+      "location": "New York",
+      "price": 1000000,
+      "description": "This is a beautiful estate in New York with a stunning view of the Manhattan skyline.",
+      "services": ["Gated community", "Pool", "Garden", "Security system"],
+      "image": "./uploads/newYorkEstate.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Exotic Villa",
+      "location": "Los Angeles",
+      "price": 500000,
+      "description": "This is a charming estate in Los Angeles with a private tennis court and a luxurious interior.",
+      "services": [
+        "Private tennis court",
+        "Garden",
+        "Security system",
+        "Swimming pool"
+      ],
+      "image": "./uploads/LosAngelesVilla.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Affordable Loft",
+      "location": "Chicago",
+      "price": 750000,
+      "description": "This is a spacious estate in Chicago with a large backyard and a modern design.",
+      "services": ["Gated community", "Garden", "Security system", "Garage"],
+      "image": "./uploads/AffordableLoft.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Paradiso House",
+      "location": "Miami",
+      "price": 2000000,
+      "description": "This is a luxury estate in Miami with a large outdoor pool and a stunning view of the city.",
+      "services": ["Gated community", "Pool", "Garden", "Security system"],
+      "image": "./uploads/Paradiso.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Royal Estate",
+      "location": "Houston",
+      "price": 1200000,
+      "description": "This is a classic estate in Houston with a large outdoor pool and a modern interior.",
+      "services": ["Gated community", "Pool", "Garden", "Security system"],
+      "image": "./uploads/RoyalEstate.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Modern House",
+      "location": "San Francisco",
+      "price": 800000,
+      "description": "This is a modern estate in San Francisco with a large outdoor pool and a modern interior.",
+      "services": ["Gated community", "Pool", "Garden", "Security system"],
+      "image": "./uploads/ModernHouse.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Classic Estate",
+      "location": "San Diego",
+      "price": 1500000,
+      "description": "This is a classic estate in San Diego with a large outdoor pool and a modern interior.",
+      "services": ["Gated community", "Pool", "Garden", "Security system"],
+      "image": "./uploads/ClassicHouse.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Ranger Estate",
+      "location": "Dallas",
+      "price": 900000,
+      "description": "This is a modern estate in Dallas with a large outdoor pool and a modern interior.",
+      "services": ["Gated community", "Pool", "Garden", "Security system"],
+      "image": "./uploads/RangerEstate.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Luxury House",
+      "location": "Seattle",
+      "price": 1800000,
+      "description": "This is a classic estate in Seattle with a large outdoor pool and a modern interior.",
+      "services": ["Gated community", "Pool", "Garden", "Security system"],
+      "image": "./uploads/LuxuryHouse.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Modern Loft",
+      "location": "Denver",
+      "price": 1100000,
+      "description": "This is a modern estate in Denver with a large outdoor pool and a modern interior.",
+      "services": ["Gated community", "Pool", "Garden", "Security system"],
+      "image": "./uploads/StoneLoft.jpg"
+    }
+  ]
+}
