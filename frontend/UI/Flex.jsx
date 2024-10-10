@@ -17,6 +17,8 @@ const Flex = styled.div`
   margin-right: ${(props) => props.marginRight || "0"};
   border: ${(props) => props.border || "none"};
   border-radius: ${(props) => props.borderRadius || "0"};
+  background-color: ${(props) => props.backgroundColor || "transparent"};
+  background-image: ${(props) => props.backgroundImage || "none"};
 `;
 
 export default Flex;

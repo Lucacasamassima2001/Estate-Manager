@@ -1,7 +1,6 @@
 import { useEffect, useState } from "react";
-import "./App.css";
-import Header from "../components/Header";
-
+import "../src/App.css";
+import Header from "../Components/Header";
 function Home() {
   const [estates, setEstates] = useState([]);
 

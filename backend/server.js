@@ -12,11 +12,11 @@ app.get("/estates", (req, res) => {
   res.json(db);
 });
 
-// make a specified get request from db
+// make a get request with id
 app.get("/estates/:id", (req, res) => {
-  console.log("Get request received");
-  const id = req.params.id;
-  const estate = db.find((estate) => estate.id == id);
+  const { id } = req.params;
+  const estate = db.estates.filter((estate) => estate.id == id);
+  console.log(estate);
   res.json(estate);
 });
 
